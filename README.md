@@ -6,6 +6,8 @@ Templates for documenting repositories using Markdown.
 
 📑 [Template #2](Template2/README.md)
 
+📑 [Template #3](Template3/README.md)
+
 ---
 
 :octocat: [Fernando Calmet](https://github.com/FernandoCalmet)
